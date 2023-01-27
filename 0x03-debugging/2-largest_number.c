@@ -1,5 +1,5 @@
 #include "main.h"
-#define 2-largest_number.c
+#ifndef "2-largest_number.c"
 
 /**
  * largest_number - returns the largest of 3 numbers
